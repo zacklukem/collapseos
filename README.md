@@ -19,7 +19,7 @@ manage to build and install Collapse OS without external resources (i.e.
 internet) on a machine of her design, built from scavenged parts with low-tech
 tools.
 
-## Organisation of this repository
+## Organization of this repository
 
 * `kernel`: Pieces of code to be assembled by the user into a kernel.
 * `apps`: Pieces of code to be assembled into "userspace" application.
